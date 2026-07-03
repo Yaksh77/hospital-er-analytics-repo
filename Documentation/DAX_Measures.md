@@ -1,6 +1,6 @@
 # DAX Measures & Calculated Columns
 
-## ⚠️ Note on Extraction
+## Note on Extraction
 
 The Power BI data model (`DataModel` inside `Dashboards.pbix`) is stored in Microsoft's compressed VertiPaq binary format, which cannot be safely parsed as plain text. As a result, the **exact DAX formulas** behind each measure/calculated column could not be extracted or verified from the files in this repository.
 
