@@ -184,7 +184,7 @@ No installation beyond Power BI Desktop is required — there is no database, AP
 
 ## 👤 Author
 
-*Add your name, LinkedIn, and portfolio link here.*
+*Yaksh Chudasama, https://www.linkedin.com/in/yaksh-chudasama-941382326-gec-ldce-it-dte/*
 
 ---
 *This README was generated from a direct inspection of the project's dataset, Power BI report layout, and dashboard screenshots. No features, metrics, or dashboards described above were invented — anything that could not be confirmed from the available files is explicitly marked as such.*
